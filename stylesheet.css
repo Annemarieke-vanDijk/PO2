@@ -1,0 +1,81 @@
+body {
+	background: linear-gradient(to right, #9E72A8, #7F488C);
+}
+
+h2 {
+	font-family: Helvetica;
+	font-size: 45px;
+	line-height: 80px;
+	color: #622870;
+}
+
+.header {
+	height: 80px;
+	width: 550px;
+	background: radial-gradient(at top, #F2FAA7, #C6D068);
+	border-radius: 5px;
+	margin-top: -15px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+p {
+	font-family: Verdana;
+	font-size: 20px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+li {
+	font-family: Verdana;
+	font-size: 20px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+.navbar_position {
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	width: auto;
+	text-align: center;
+}
+
+.navbar {
+	height: 40px;
+	width: 150px;
+	background: radial-gradient(circle, #F2FAA7, #C6D068);
+	border-radius: 5px;
+	padding: 5px 5px 5px 5px;
+	line-height: 40px;
+	display: inline;
+	transition: 250ms ease-in;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+a {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #622870;
+	text-decoration: none;
+}
+
+a:hover {
+	font-family: Verdana;
+	font-size: 22px;
+	color: #471054;
+}
+
+.page_content {
+	font-family: Verdana;
+	background: radial-gradient(circle, #F2FAA7, #C6D068);
+	height: auto;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+	padding: 10px 10px 15px 20px;
+	margin-top: 20px;
+}
